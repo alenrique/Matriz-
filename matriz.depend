@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1613000844 source:c:\users\henrique alencar\onedrive\documentos\matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
+1613000819 c:\users\henrique alencar\onedrive\documentos\matriz\matriz.h
+
+1613000876 source:c:\users\henrique alencar\onedrive\documentos\matriz\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
